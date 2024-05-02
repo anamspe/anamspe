@@ -14,7 +14,7 @@
 ### Hello world! 👋😉
 I am Ana Franco, a Full-stack developer based in Vancouver, Canada. I have a background in Communications and Video Editing and I'm looking to expand my experience in Web Development.
 
-You can check my portfolio here: https://anafranco.vercel.app/
+You can check my portfolio here: https://anafranco.vercel.app/ (currently working on making it responsive)
 
 ✨Skills:  **JavaScript, React (Redux), HTML, CSS (Sass and Tailwind CSS), Node.js, PostgreSQL, Git**
 
