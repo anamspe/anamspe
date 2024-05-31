@@ -1,6 +1,7 @@
 ## Ana Franco 👩‍💻
 
 <div style="display: inline_block" >
+  <img align="center" title="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/typescript/typescript-plain.svg" />
   <img align="center" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg" />
   <img align="center" title="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg" />
   <img align="center" title="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg" />
@@ -16,7 +17,8 @@ I am Ana Franco, a Full-stack developer based in Vancouver, Canada. I have a bac
 
 You can check my portfolio here: https://anafranco.vercel.app/ 
 
-✨Skills:  **JavaScript, React (Redux), HTML, CSS (Sass and Tailwind CSS), Node.js, PostgreSQL, Git**
+✨Skills:  **Typescript, JavaScript, React (Redux), HTML, CSS (Sass and Tailwind CSS), Node.js, PostgreSQL, Git** <br>
+📝 Currently learning: [**Go**](https://go.dev/) 
 
 ### Status:
 <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anamspe&layout=compact&langs_count=7&theme=dracula" />
