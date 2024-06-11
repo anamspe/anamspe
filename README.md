@@ -18,7 +18,7 @@ I am Ana Franco, a Full-stack developer based in Vancouver, Canada. I have a bac
 You can check my portfolio here: https://anafranco.vercel.app/ 
 
 ✨Skills:  **Typescript, JavaScript, React (Redux), HTML, CSS (Sass and Tailwind CSS), Node.js, PostgreSQL, Git** <br>
-📝 Currently learning: [**Go**](https://go.dev/) 
+📝 Currently learning: [**Java**](https://www.java.com/en/) 
 
 ### Status:
 <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anamspe&layout=compact&langs_count=7&theme=dracula" />
