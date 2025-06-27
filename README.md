@@ -17,7 +17,7 @@ I am Ana Franco, a Full-stack developer based in Vancouver, Canada. I have a bac
 You can check my portfolio here: https://anafranco.vercel.app/ 
 
 ✨Skills:  **JavaScript, React (Redux), HTML, CSS (Sass and Tailwind CSS), Node.js, PostgreSQL, Git** <br>
-📝 Currently learning: [**IBM Full Stack Cloud Developer**](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer) 
+📝 Currently learning: [**IBM Full Stack Software Developer**](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer) 
 
 ### Status:
 <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anamspe&layout=compact&langs_count=7&theme=dracula" />
